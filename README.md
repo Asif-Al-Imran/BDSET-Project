@@ -1,4 +1,4 @@
-# 🤖 Machine Learning & Deep Learning Projects Portfolio
+# Bangladesh–Bharot Digital Service and Employment Training Center (BDSET)
 
 This repository showcases the projects I developed during my professional training under the  
 **Bangladesh–Bharot Digital Service and Employment Training Center (BDSET)**,  
